@@ -1,10 +1,6 @@
-﻿token=
-owner=228139766573432832 
-
-prefix= 1
-
-game= Universe Bot.
-
+token=NTQwODU4OTA2NjQ2MjgyMjgw.DzXBtQ.wG9vRFqTyK1qELGtIr7TZ75BqNo
+owner=521341978659651596
+prefix= R
+game= La amo mucho.
 stayinchannel=true
-
 songinstatus=false
